@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Ti Amo",
+  "base_artist": "EXILE",
+  "createdAt": "2025-12-02T17:59:18.214258Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cosi Ti Amo",
+      "artist": "Nina Simone",
+      "has_synced": true,
+      "path": "select/01_Cosi_Ti_Amo_Nina_Simone.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ti Amo (feat. MC Spirits)",
+      "artist": "Danny L Harle",
+      "has_synced": true,
+      "path": "select/02_Ti_Amo_(feat._MC_Spirits)_Danny_L_Harle.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ti Amo (feat. MC Spirits & DJ Danny)",
+      "artist": "Danny L Harle",
+      "has_synced": true,
+      "path": "select/03_Ti_Amo_(feat._MC_Spirits_&_DJ_Danny)_Danny_L_Harle.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ti Amo",
+      "artist": "Phoenix",
+      "has_synced": true,
+      "path": "select/04_Ti_Amo_Phoenix.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ti Amo",
+      "artist": "Umberto Tozzi",
+      "has_synced": true,
+      "path": "select/05_Ti_Amo_Umberto_Tozzi.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "03.Ti Amo",
+      "artist": "Umberto Tozzi",
+      "has_synced": true,
+      "path": "select/06_03.Ti_Amo_Umberto_Tozzi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "21 modi per dirti ti amo",
+      "artist": "Antonello Venditti",
+      "has_synced": true,
+      "path": "select/07_21_modi_per_dirti_ti_amo_Antonello_Venditti.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "21 modi per dire ti amo",
+      "artist": "Antonello Venditti",
+      "has_synced": false,
+      "path": "select/08_21_modi_per_dire_ti_amo_Antonello_Venditti.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Al Ritmo Di Beguine (Ti Amo)",
+      "artist": "Al Bano & Romina Power",
+      "has_synced": true,
+      "path": "select/09_Al_Ritmo_Di_Beguine_(Ti_Amo)_Al_Bano_&_Romina_Power.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cara Ti Amo (Live In Firenze 09:09:98)",
+      "artist": "Elio e le Storie Tese",
+      "has_synced": false,
+      "path": "select/10_Cara_Ti_Amo_(Live_In_Firenze_09_09_98)_Elio_e_le_Storie_Tese.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Cara ti amo - Live in Capua 31-07-2007",
+      "artist": "Elio e le Storie Tese",
+      "has_synced": true,
+      "path": "select/11_Cara_ti_amo_-_Live_in_Capua_31-07-2007_Elio_e_le_Storie_Tese.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Cara ti amo (Risvolti psicologici nei rapporti fra giovani uomini e giovani donne)",
+      "artist": "Elio e le Storie Tese",
+      "has_synced": true,
+      "path": "select/12_Cara_ti_amo_(Risvolti_psicologici_nei_rapporti_fra_giovani_uomini_e_giovani_donn_Elio_e_le_Storie_Tese.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dio come ti amo",
+      "artist": "Paola Turci",
+      "has_synced": false,
+      "path": "select/13_Dio_come_ti_amo_Paola_Turci.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "E pensare che ti amo",
+      "artist": "Loretta Goggi",
+      "has_synced": true,
+      "path": "select/14_E_pensare_che_ti_amo_Loretta_Goggi.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "E Piu' Ti Amo (Plus Je T'Entend)",
+      "artist": "Franco Battiato",
+      "has_synced": false,
+      "path": "select/15_E_Piu'_Ti_Amo_(Plus_Je_T'Entend)_Franco_Battiato.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Io Ti Amo Da Matti",
+      "artist": "Skiantos",
+      "has_synced": false,
+      "path": "select/16_Io_Ti_Amo_Da_Matti_Skiantos.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Io ti amo da matti (Sesso & karnazza)",
+      "artist": "Skiantos",
+      "has_synced": false,
+      "path": "select/17_Io_ti_amo_da_matti_(Sesso_&_karnazza)_Skiantos.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ti Amo",
+      "artist": "EXILE",
+      "has_synced": false,
+      "path": "select/pl_01_Ti_Amo_EXILE.txt"
+    }
+  ]
+}
